@@ -58,12 +58,6 @@ def left_paddle_down():
 
 def right_paddle_up():
     right_paddle.sety(right_paddle.ycor() + 20)
-
-
-def right_paddle_up():
-    right_paddle.sety(right_paddle.ycor() + 20)
-
-
 def right_paddle_down():
     right_paddle.sety(right_paddle.ycor() - 20)
 
